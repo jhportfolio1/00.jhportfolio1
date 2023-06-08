@@ -1,6 +1,9 @@
 - 👋 Hi, I’m JIHYE PARK @jhportfolio1 
 
 - 👀 I’m interested in Data Analytics
+>- Worked at National Assembly of Republic of Korea
+>- Worked at Ministry of Foreign Affairs of Republic of Korea
+>- Run Startup Business of Sportwear(experience of attracting investment : 500 million korean Won)
 
 - 🌱 I’m currently learning AI at Microsoft AI School
 >- also, Master's Degree in Political Science at Korea University(in Seoul)
