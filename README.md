@@ -2,7 +2,8 @@
 
 - 👀 I’m interested in Data Analytics
 
-- 🌱 I’m currently learning AI at Microsoft AI School.
+- 🌱 I’m currently learning AI at Microsoft AI School
+>- also, Master's Degree in Political Science at Korea University(in Seoul)
 
 - ✨ Certification I have
 >- Microsoft AI Fundamental(AI900)
